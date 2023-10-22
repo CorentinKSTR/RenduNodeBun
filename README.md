@@ -1,15 +1,15 @@
-# Elysia with Bun runtime
+# Elysia avec Bun
 
-## Getting Started
-To get started with this template, simply paste this command into your terminal:
+## Pour Commencer
+Pour commencer avec ce modèle, il vous suffit de copier cette commande dans votre terminal :
 ```bash
-bun create elysia ./elysia-example
+npm install
 ```
 
-## Development
-To start the development server run:
+## Développement
+Pour démarrer le serveur de développement, exécutez :
 ```bash
-bun run dev
+bun run src/index.ts
 ```
 
-Open http://localhost:3000/ with your browser to see the result.
+Ouvrez http://localhost:3003/ dans votre navigateur pour voir le résultat.
